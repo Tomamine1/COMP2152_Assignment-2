@@ -4,8 +4,8 @@ Unit Tests for Assignment 2 — Port Scanner
 
 import unittest
 
-# TODO: Import your classes and common_ports from assignment2_studentID
-# from assignment2_studentID import PortScanner, common_ports
+# Import your classes and common_ports from assignment2_studentID
+from assignment2_101579629 import PortScanner, common_ports
 
 
 class TestPortScanner(unittest.TestCase):
